@@ -5930,7 +5930,7 @@ categories:
 
   Databases which don't support transactions at all.
   Databases in which a transaction is always active.
-  Databases in which a transaction must be explicitly started (C<'BEGIN WORK'>).
+  Databases in which a transaction must be explicitly started ('BEGIN WORK').
 
 B<* Databases which don't support transactions at all>
 
